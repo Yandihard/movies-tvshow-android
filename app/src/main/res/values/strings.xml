@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TVMoviesApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">MOVIES</string>
+    <string name="tab_text_2">TV SHOWS</string>
+    <string name="movies_name">Movies Name</string>
+    <string name="tvshow_name">TV Show Name</string>
+    <string name="overview">Overview</string>
+    <string name="movies_aired">Aired</string>
+    <string name="movies_genre">Genre</string>
+    <string name="movies_duration">Duration</string>
+    <string name="movies_status">Status</string>
+    <string name="movies_language">Language</string>
+    <string name="movies_budget">Budget</string>
+    <string name="movies_revenue">Revenue</string>
+    <string name="network">Network</string>
+    <string name="type">Type</string>
+    <string name="favorite">Favorite</string>
+</resources>
